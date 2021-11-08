@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @therookiedev
 - 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning NODE JS
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking forward to collaborate on my future projects
 
 
